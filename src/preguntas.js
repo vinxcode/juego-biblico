@@ -1,3 +1,28 @@
-const preguntas = [{idPregunta: 1, pregunta: "mipregunta1", respuesta: "mirespueston1"}, {idPregunta: 2, pregunta: "mipregunta2", respuesta: "mirespueston2"}]
+const preguntas = [
+    {idPregunta: 1, pregunta: "¿Cuántos días permaneció el agua sobre la tierra según Génesis 7:24?", respuesta: "150 días"}, 
+    {idPregunta: 2, pregunta: "¿Cuántos días pasaron desde que entraron al arca para que comenzara a llover?", respuesta: "Siete días"},
+    {idPregunta: 4, pregunta: "¿De qué manera hizo Dios que comenzaran a bajar las aguas luego del diluvio?", respuesta: "Hizo pasar un viento sobre la tierra"},
+    {idPregunta: 5, pregunta: "¿Qué día reposó el arca en los montes por primera vez mientras bajaban las aguas?", respuesta: "El dia 17 del mes séptimo"},
+    {idPregunta: 6, pregunta: "¿Qué distancia subió el agua por encima de los montes más altos de la tierra?", respuesta: "Quince codos / Siete metros"},
+    {idPregunta: 7, pregunta: "¿Qué día fueron rotas todas las fuentes del abismo y abiertas las cataratas de los cielos?", 
+    respuesta: "El día 17 del mes segundo del año 600 de la vida de Noé"},
+    {idPregunta: 8, pregunta: "¿Cómo se llamaban los montes sobre los que reposó el arca cuando estaban bajando las aguas?", respuesta: "Montes de Ararat"},
+    {idPregunta: 9, pregunta: "¿Cuál fue el primer animal que envió Noé desde el arca mientras las aguas estaban bajando?", respuesta: "Un Cuervo"},
+    {idPregunta: 10, pregunta: "¿Qué día se secaron las agua sobre la tierra según Génesis 8:13?", respuesta: "El primer día del primer mes del año 601 de la vida de Noé"},
+    {idPregunta: 11, pregunta: "¿Cuántas parejas debía tomar Noé de las aves de los cielos?", respuesta: "Siete parejas"},
+    {idPregunta: 12, pregunta: "¿Qué día según Génesis 8:14-15 dijo Dios a Noé que salieran del arca", respuesta: "Día 27 del mes segundo del año 601 de la vida de Noé"},
+    {idPregunta: 12, pregunta: "Luego de que las aguas comenzaron a bajar, ¿A los cuántos días se retiraron las aguas según Génesis 8:3?", respuesta: "Al cabo de 150 días"},
+    {idPregunta: 14, pregunta: "¿Cuántos días pasaron desde que se descubrieron los montes hasta que Noé abriera por primera vez la ventana del arca?", respuesta: "40 días"},
+    {idPregunta: 15, pregunta: "¿En qué mes, luego del diluvio, fueron descubiertos los montes, mientras el agua bajaba gradualmente según Génesis 8:5?", respuesta: "El mes décimo"},
+    {idPregunta: 16, pregunta: "¿Cuántas parejas debía tomar Noé de los animales limpios?", respuesta: "Siete parejas"},
+    {idPregunta: 17, pregunta: "¿Cuál fue el segundo animal que envió Noé desde el arca mientras bajanban las aguas?", respuesta: "Una paloma"},
+    {idPregunta: 18, pregunta: "¿Cuántos días esperó Noé para volver a enviar la Paloma?", respuesta: "Siete días"},
+    {idPregunta: 19, pregunta: "¿Qué hizo Noé inmediatamente después de salir del arca?", respuesta: "Edificó un altar"},
+    {idPregunta: 20, pregunta: "¿Cuántas veces envió Noé a la Paloma?", respuesta: "Tres veces"},
+    {idPregunta: 21, pregunta: "¿Qué traía en el pico la paloma que envió Noé?", respuesta: "Una hoja de olivo"},
+    {idPregunta: 22, pregunta: "¿De qué tipo de animales ofreció Noé holocausto al salir del arca?", respuesta: "De las aves y animales limpios"},
+    {idPregunta: 23, pregunta: "¿Qué dijo Dios cuando percibió el olor grato del holocauto de Noé?", respuesta: "No volveré a maldecir la tierra por causa del hombre"},
+    {idPregunta: 24, pregunta: "¿Cuántas parejas debía tomar Noé de los animales no limpios?", respuesta: "Una pareja"},
+]
 
 export default preguntas 
